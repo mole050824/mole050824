@@ -15,9 +15,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mole050824&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mole050824&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mole050824&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mole050824&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;cache_seconds=86400" />
 </p>
 
 ---
