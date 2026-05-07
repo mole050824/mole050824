@@ -3,7 +3,7 @@
 ## 2026 Progress
 
 <p align="center">
-  <img src="https://progress-bar.dev/127/?scale=365&title=Days%20Passed&width=700&color=40c463" />
+  <img src="https://progress-bar.xyz/127/?scale=365&title=Days%20Passed&width=500&color=babaca" />
 </p>
 
 ## Contribution Graph
