@@ -1,4 +1,4 @@
 # Hi there 👋
 
 ## Contribution Graph
-![Contributions](https://ghchart.rshah.org/f97316/mole050824)
+![Contributions](https://ghchart.rshah.org/fb923c/mole050824)
